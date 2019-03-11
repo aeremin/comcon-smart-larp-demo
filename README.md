@@ -11,4 +11,4 @@ Installed via Hassbian approach (so everything else installed on top of it).
 
 [Node Red](https://nodered.org/) - Allows for visual programming of workflows logic.
 Have a lot of integrations via so-called palettes (e.g. node-red-contrib-home-assistant-websocket palette used to integrate with Home Assistant).
-
+`node-red-start` and `node-red-stop` start/stop it (Ctrl+C in log window won't stop the process, it will run in background).
